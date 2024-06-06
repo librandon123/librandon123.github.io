@@ -1,0 +1,10 @@
+/* assets/css/styles.css */
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border-radius: 50%; /* This makes the image a circle */
+    overflow: hidden;
+}
